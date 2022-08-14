@@ -1,4 +1,6 @@
-### Hi there 👋
+<img width="100px" height="100px" src="https://user-images.githubusercontent.com/63135773/184524716-ae71737d-7631-4a93-bcdb-cf1fa13bab30.png" />
+### Hi I'm Shakil Ahmed
+
 
 <!--
 **ahmad-DS/ahmad-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
