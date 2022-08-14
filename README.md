@@ -1,6 +1,6 @@
-<img width="200" src="https://user-images.githubusercontent.com/63135773/184524716-ae71737d-7631-4a93-bcdb-cf1fa13bab30.png" />
+<img width="200" align="right" src="https://user-images.githubusercontent.com/63135773/184524716-ae71737d-7631-4a93-bcdb-cf1fa13bab30.png" />
 
-### Hi I'm Shakil Ahmed
+### Hi I'm Shakil Ahmad
 - [x] Full Stack Web Developer
 - [x] Problem Solver
 - [x] Fitness Enthusiast
