@@ -14,6 +14,14 @@
     <p>Hi I am Shakil Ahmad, I am from Deoghar, Jharkhand. A mechanical engineer turned Software Developer.</p>
     <p> I am a good team-player, passionate about developing and implementing complex architechture. I am looking for a  challenging and dynamic role in a start-up environment. </p>
     </div>
+<h2>🌐 Socials:</h2>
+<a href="https://www.linkedin.com/in/shakil-ahmad-6b3a79126/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+<a href="https://ahmad-ds.github.io/"><img src="https://img.shields.io/badge/Portfolio-ff5722"/></a>
+<a href="https://www.hackerrank.com/ahmad_shakil444"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="https://leetcode.com/ahmad_shakil/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+
+
+
 <h2>🚀 Technologies & Tools I know 💻 ...</h2>
     <div>
     <p><img width="30px" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="html-5" /> &nbsp   <img width="30px" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="css-3"/> &nbsp    <img width="30px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="javascript" /> &nbsp   <img width="35px" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react"/> &nbsp   
